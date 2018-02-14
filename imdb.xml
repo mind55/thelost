@@ -1,0 +1,103 @@
+<dir>
+<title>Search IMDB TV</title>
+<imdburl>searchseries</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>Search IMDB Movies</title>
+<imdburl>searchmovies</imdburl>
+<thumbnail></thumbnail>
+</dir>
+
+<dir>
+<title>IMDB TOP 100 Gangster List</title>
+<imdburl>list/ls001818278</imdburl>
+</dir>
+
+<dir>
+<title>IMDB BOX OFFICE TV Shows</title>
+<imdburl>tvshows/boxoffice</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB ALPHABETICAL TV Shows</title>
+<imdburl>tvshows/alphabetical</imdburl>
+</dir>
+
+<dir>
+<title>IMDB NEW TV Shows</title>
+<imdburl>tvshows/new</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB BEST RATINGS TV Shows</title>
+<imdburl>tvshows/rating</imdburl>
+</dir>
+ 
+<dir>
+<title>IMDB Action TV Shows</title>
+<imdburl>genrestv/action</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Action Movies</title>
+<imdburl>genres/action</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Popular</title>
+<imdburl>http://www.imdb.com/chart/tvmeter</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Most Voted</title>
+<imdburl>movies/voted</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Top Rated</title>
+<imdburl>movies/rated</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Trending</title>
+<imdburl>movies/trending</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Box Office</title>
+<imdburl>movies/boxoffice</imdburl>
+</dir>
+
+<dir>
+<title>IMDB 2017</title>
+<imdburl>years/2017</imdburl>
+</dir>
+
+<dir>
+<title>Chart Moviemeter</title>
+<imdburl>chart/moviemeter</imdburl>
+</dir>
+
+<dir>
+<title>Chart Best Rated</title>
+<imdburl>chart/top</imdburl>
+</dir>
+
+<dir>
+<title>Chart Lowest Rated</title>
+<imdburl>chart/bottom</imdburl>
+</dir>
+
+<dir>
+<title>IMDB Netflix Original</title>
+<imdburl>tvshowlists/ls064243721</imdburl>
+<thumbnail></thumbnail>
+</dir>
+    
+<dir>
+<title>IMDB Top Action Movies</title>
+<imdburl>list/ls021242932</imdburl>
+<thumbnail></thumbnail>
+</dir>

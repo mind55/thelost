@@ -1,0 +1,139 @@
+
+<dir>
+    <title>predator movies</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/predator%20movies.xml</link>
+</dir>
+   
+ <dir>
+    <title>DC</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/DC.xml</link>
+   </dir>
+
+  <dir>
+    <title>BIG movie list</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/BIGmovielist.xml</link>
+   </dir>
+    
+<dir>
+    <title>actors (2)</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/actors%20(2).xml</link>
+  </dir>
+  
+<dir>
+    <title>Actresses</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/actress.xml</link>
+  </dir>
+
+<dir>
+    <title>Collections</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/collections.xml</link>
+</dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+    <title>Movie Years</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/movie-years.xml</link>
+  </dir>
+
+<dir>
+    <title>Networks</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/networks.xml</link>
+  </dir>
+<dir>
+    <title>Production Companies</title>
+    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/production.xml</link>
+  </dir>
+  
+ <dir>
+<title>Trapper tv shows</title>
+<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
+</dir>
+
+<dir>
+<title>anime-tv-show</title>
+<trakt>https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
+</dir>
+
+<dir>
+<title>dc</title>
+<trakt>https://trakt.tv/users/jarvis-3589129/lists/dc</trakt>
+</dir>
+
+<dir>
+<title>list</title>
+<trakt>https://trakt.tv/users/jarvis-3589129/lists</trakt>
+</dir>
+  
+<dir>
+<title>Search TMDB</title>
+<tmdb>search</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>movies/popular</tmdb> 
+</dir>
+
+<dir>
+      <title>TMDB Now Playing</title>
+      <tmdb>movies/now_playing</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>movies/top_rated</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+</dir>
+
+
+<dir>      
+	  <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+<title>IMDB Top Action Movies</title>
+<imdburl>list/ls021242932</imdburl>
+<thumbnail></thumbnail>
+</dir
+
+<dir>
+<title>lists</title>
+<imdburl>http://www.imdb.com/user/ur84874002/lists</imdburl>
+<thumbnail></thumbnail>
+</dir
+  
+<dir>
+  <title>Search Add On</title>
+  <trakt>search</trakt>
+</dir>
+
+<dir>
+<title>Search Internet Movies</title>
+<tmdb>search</tmdb>
+
+</xml><plugin>
+<name>settings</name>
+<link>plugin://plugin.video.Trapper/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>search</name>
+<link>plugin://plugin.video.Trapper/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.Trapper/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>
