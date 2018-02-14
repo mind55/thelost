@@ -1,71 +1,87 @@
-
 <dir>
-    <title>predator movies</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/predator%20movies.xml</link>
-</dir>
-   
- <dir>
-    <title>DC</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/DC.xml</link>
-   </dir>
-
-  <dir>
-    <title>BIG movie list</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/BIGmovielist.xml</link>
-   </dir>
-    
-<dir>
-    <title>actors (2)</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/actors%20(2).xml</link>
-  </dir>
-  
-<dir>
-    <title>Actresses</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/actress.xml</link>
-  </dir>
-
-<dir>
-    <title>Collections</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/collections.xml</link>
+<title>Action movies</title>
+<tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
 </dir>
 
 <dir>
-    <title>Movie Genres</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/genre_movies.xml</link>
-  </dir>
-  
-<dir>
-    <title>Movie Years</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/movie-years.xml</link>
-  </dir>
+<title>Beast Action</title>
+<tmdb>list/https://www.themoviedb.org/list/47747</tmdb>
+</dir>
+ 
+ <dir>
+<title>Predator mythology</title>
+<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
 
 <dir>
-    <title>Networks</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/networks.xml</link>
-  </dir>
+<title>Comedy</title>
+<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
+</dir>
+
 <dir>
-    <title>Production Companies</title>
-    <link>https://raw.githubusercontent.com/trapper58/trappor2/master/production.xml</link>
-  </dir>
-  
- <dir>
+   <title>DC</title>
+   <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
+</dir>
+
+<dir>
+<title>Predator westerns</title>
+<tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
+</dir>
+
+<dir>
+<title>Beast list</title>
+<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
+</dir>
+
+<dir>
 <title>Trapper tv shows</title>
 <tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
 </dir>
 
 <dir>
-<title>anime-tv-show</title>
-<trakt>https://trakt.tv/users/trapper-12/lists/anime-tv-show</trakt>
+<title>Trapper animes</title>
+<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
 </dir>
 
 <dir>
-<title>dc</title>
-<trakt>https://trakt.tv/users/jarvis-3589129/lists/dc</trakt>
+<title>Trapper Urban</title>
+<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
+</dir>
+
+<dir>
+    <title>actors (2)</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/actors%20(2).xml</link>
+  </dir>
+  <dir>
+    <title>Collections</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/collections.xml</link>
+</dir>
+
+<dir>
+    <title>Movie Genres</title>
+    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
+  </dir>
+  
+<dir>
+<title>Movie Years</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
+</dir>
+ 
+<dir>
+<title>Networks</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
+</dir>
+
+<dir>
+	<title>IMDB Action TV Shows</title>
+	<imdburl>genres/action</imdburl>
+	<thumbnail></thumbnail>
 </dir>
 
 <dir>
 <title>list</title>
-<trakt>https://trakt.tv/users/jarvis-3589129/lists</trakt>
+<imdburl>list/http://www.imdb.com/user/ur84874002/lists</imdburl>
+<thumbnail></thumbnail>
 </dir>
   
 <dir>
@@ -98,20 +114,8 @@
 	  <title>TMDB Top Rated</title>
       <tmdb>tv/top_rated</tmdb>
 </dir>
-
-<dir>
-<title>IMDB Top Action Movies</title>
-<imdburl>list/ls021242932</imdburl>
-<thumbnail></thumbnail>
-</dir
-
-<dir>
-<title>lists</title>
-<imdburl>http://www.imdb.com/user/ur84874002/lists</imdburl>
-<thumbnail></thumbnail>
-</dir
   
-<dir>
+  <dir>
   <title>Search Add On</title>
   <trakt>search</trakt>
 </dir>
@@ -134,6 +138,6 @@
 
 <plugin>
 <name>Testings</name>
-<link>plugin://plugin.video.Trapper/?action=developer</link>
+<link>plugin://plugin.video.jen/?action=developer</link>
 <thumbnail></thumbnail>
 </plugin>
