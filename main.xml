@@ -9,8 +9,18 @@
 </dir>
  
 <dir>
-<title>Predator mythology</title>
+<title>mythology</title>
 <tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+</dir>
+
+<dir>
+<title>Drama/atcion</title>
+<tmdb>list/https://www.themoviedb.org/list/47844</tmdb>
+</dir>
+
+<dir>
+<title>Chick flicks</title>
+<tmdb>list/https://www.themoviedb.org/list/47936</tmdb>
 </dir>
 
 <dir>
@@ -34,12 +44,12 @@
 </dir>
 
 <dir>
-   <title>DC</title>
-   <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
+<title>DC</title>
+<link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
 </dir>
 
 <dir>
-<title>Predator westerns</title>
+<title>westerns</title>
 <tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
 </dir>
 
@@ -54,12 +64,12 @@
 </dir>
 
 <dir>
-<title>Trapper animes</title>
+<title>animes tv</title>
 <tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
 </dir>
 
 <dir>
-<title>Trapper Urban</title>
+<title>Urban</title>
 <tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
 </dir>
 
@@ -112,22 +122,6 @@
 <dir>
       <title>TMDB Now Playing</title>
       <tmdb>movies/now_playing</tmdb>
-</dir>
-
-<dir>
-      <title>TMDB Top Rated</title>
-      <tmdb>movies/top_rated</tmdb>
-</dir>
-
-<dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-</dir>
-
-
-<dir>      
-	  <title>TMDB Top Rated</title>
-      <tmdb>tv/top_rated</tmdb>
 </dir>
   
   <dir>
