@@ -1,95 +1,98 @@
 <dir>
-<title>Action movies</title>
-<tmdb>list/https://www.themoviedb.org/list/47583</tmdb>
+        <name>Shows</name>
+        <link></link>
 </dir>
 
 <dir>
-<title>Beast Action</title>
-<tmdb>list/https://www.themoviedb.org/list/47747</tmdb>
+        <name>TV Networks</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/networks.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>TV Genre</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_tv.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+      <title>TMDB Popular</title>
+      <tmdb>tv/popular</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Top Rated</title>
+      <tmdb>tv/top_rated</tmdb>
+</dir>
+
+<dir>
+      <title>TMDB Airing Today</title>
+      <tmdb>tv/today</tmdb>
+</dir>
+
+    
+<dir>
+      <title>TMDB On The Air</title>
+      <tmdb>tv/on_the_air</tmdb>
+</dir>
+<dir>
+      <title>Trakt Trending Shows</title>
+      <trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+
+<dir>
+      <title>Trakt Popular Shows</title>
+      <trakt>https://api.trakt.tv/shows/popular</trakt>
+</dir>
+
+<dir>
+        <name>Movies</name>
+        <link></link>
+</dir>
+
+<dir>
+        <name>Movies By Year</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/tmdbyear.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Movies By Genre</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_movies.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Movies By Production</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/production.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
  
- <dir>
-<title>Predator mythology</title>
-<tmdb>list/https://www.themoviedb.org/list/47717</tmdb>
+<dir>
+        <name>Movies By Actor or Actress</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/actorstrakt.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
 </dir>
 
-<dir>
-<title>Comedy</title>
-<tmdb>list/https://www.themoviedb.org/list/47754</tmdb>
-</dir>
-
-<dir>
-   <title>DC</title>
-   <link>https://raw.githubusercontent.com/Trapper69/trappor/master/DC.xml</link>
-</dir>
-
-<dir>
-<title>Predator westerns</title>
-<tmdb>list/https://www.themoviedb.org/list/47711</tmdb>
-</dir>
-
-<dir>
-<title>Beast list</title>
-<tmdb>list/https://www.themoviedb.org/list/47690</tmdb>
-</dir>
-
-<dir>
-<title>Trapper tv shows</title>
-<tmdb>list/https://www.themoviedb.org/list/46939</tmdb>
-</dir>
-
-<dir>
-<title>Trapper animes</title>
-<tmdb>list/https://www.themoviedb.org/list/47315</tmdb>
-</dir>
-
-<dir>
-<title>Trapper Urban</title>
-<tmdb>list/https://www.themoviedb.org/list/47582</tmdb>
-</dir>
-
-<dir>
-    <title>actors (2)</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/actors%20(2).xml</link>
-  </dir>
-  <dir>
-    <title>Collections</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/collections.xml</link>
-</dir>
-
-<dir>
-    <title>Movie Genres</title>
-    <link>https://raw.githubusercontent.com/Trapper69/trappor/master/genre_movies.xml</link>
-  </dir>
-  
-<dir>
-<title>Movie Years</title>
-<link>https://raw.githubusercontent.com/Trapper69/trappor/master/tmdbyear2.xml</link>
-</dir>
- 
-<dir>
-<title>Networks</title>
-<link>https://raw.githubusercontent.com/Trapper69/trappor/master/networks.xml</link>
-</dir>
-
-<dir>
-	<title>IMDB Action TV Shows</title>
-	<imdburl>genres/action</imdburl>
-	<thumbnail></thumbnail>
-</dir>
-
-<dir>
-<title>list</title>
-<imdburl>list/http://www.imdb.com/user/ur84874002/lists</imdburl>
-<thumbnail></thumbnail>
-</dir>
-  
-<dir>
-<title>Search TMDB</title>
-<tmdb>search</tmdb>
-</dir>
-
-<dir>
+<dir>       
       <title>TMDB Popular</title>
       <tmdb>movies/popular</tmdb> 
 </dir>
@@ -105,39 +108,11 @@
 </dir>
 
 <dir>
-      <title>TMDB Popular</title>
-      <tmdb>tv/popular</tmdb>
-</dir>
-
-
-<dir>      
-	  <title>TMDB Top Rated</title>
-      <tmdb>tv/top_rated</tmdb>
-</dir>
-  
-  <dir>
-  <title>Search Add On</title>
-  <trakt>search</trakt>
+      <title>Trakt Trending Movies</title>
+      <trakt>https://api.trakt.tv/movies/trending</trakt>
 </dir>
 
 <dir>
-<title>Search Internet Movies</title>
-<tmdb>search</tmdb>
-
-</xml><plugin>
-<name>settings</name>
-<link>plugin://plugin.video.Trapper/?action=openSettings</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<name>search</name>
-<link>plugin://plugin.video.Trapper/?action=search</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<name>Testings</name>
-<link>plugin://plugin.video.jen/?action=developer</link>
-<thumbnail></thumbnail>
-</plugin>
+      <title>Trakt Popular Movies</title>
+      <trakt>https://api.trakt.tv/movies/popular</trakt>
+</dir>
