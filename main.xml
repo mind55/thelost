@@ -29,6 +29,11 @@
 </dir>
 
 <dir>
+<title>Urban movies</title>
+<tmdb>list/https://www.themoviedb.org/list/48024</tmdb>
+</dir>
+
+<dir>
 <title>Comedy movies</title>
 <tmdb>list/https://www.themoviedb.org/list/47834</tmdb>
 </dir>
